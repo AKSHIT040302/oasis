@@ -273,7 +273,8 @@
   .project-card{
     width:90%;
     height:550px;
-    background-image: url(Project1.png);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzA6NOXnoR5J-RR9vweL3p_YOasC3lRPq2-0G8XOScRRXUSHoG4Coi0R3o_yX43RZkz24&usqp=CAU);
+
     background-size: cover;
     /* background-repeat: no-repeat; */
     position:relative;
@@ -407,19 +408,14 @@
   }
 
   #project1{
-    background-image: url(Project1.png);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfUYjXBNkJ8ChEjA7p1MXt4mKZLBSnH_jcZw&usqp=CAU);
+    background-size: contain;
   }
 
-  #project2{
-    margin-left:120px;
-    background-image: url(Project2.png);
-  }
-  #project3{
-    background-image: url(Project3.png);
-  }
+  
   #project4{
     margin-left:120px;
-    background-image: url(Project4.png);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4dv6ynfNm5_xeF03RJrWOkPjPlEIL6NT2_A&usqp=CAU);
   }
 
   @media (max-width:1300px) {
